@@ -4,7 +4,7 @@ Tere tulemast minu andmeanalüüsi portfooliosse! See repositoorium koondab enda
 
 ---
 
-## 👩‍alle Profiil & Programm
+##  Programm
 * **Osaleja:** Egle Laur
 * **Programm:** Data Analyst Career Accelerator (DACA)
 * **Alguskuupäev:** 24.03.2026
