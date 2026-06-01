@@ -44,7 +44,7 @@ Tere tulemast minu andmeanalüüsi portfooliosse! See repositoorium koondab enda
 Olen avatud uutele väljakutsetele, praktikavõimalustele ja andmealastele aruteludele. 
 
 * **GitHub:** [github.com/EgleLaur](https://github.com/EgleLaur)
-* **LinkedIn:** https://www.linkedin.com/in/egle-l-77792a380/
+* **LinkedIn:** https://www.linkedin.com/in/egle-l/
 * **E-mail:** lauregle@gmail.com
 
 
