@@ -26,8 +26,8 @@ The projects in this repository are based on the UrbanStyle retail business-simu
 | **Week 6** | Data storytelling and Tartu store view | [Open](link_siia) |
 | **Week 7** | Python/pandas and RFM segmentation | [Open](link_siia) |
 | **Week 8** | Python API pipeline | [Open](link_siia) |
-| **Week 9** | Career preparation |
-| **Week 10**| Portfolio Defence |
+| **Week 9** | Career preparation | [Open](link_siia) |
+| **Week 10**| Portfolio Defence | [Open](link_siia) |
 
 ---
 
