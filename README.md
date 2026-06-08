@@ -1,51 +1,52 @@
 # 📊 Data Analyst Career Accelerator (DACA) Portfolio
 
-Tere tulemast minu andmeanalüüsi portfooliosse! See repositoorium koondab endas minu intensiivse õpiteekonna projekte, praktilisi ülesandeid ja arengut programmi **Data Analyst Career Accelerator (DACA)** raames.
-
----
+Welcome to my data analytics portfolio! This repository brings together the projects, practical assignments, and growth from my intensive learning journey within the Data Analyst Career Accelerator (DACA) program.
 
 ##  Programm
-* **Osaleja:** Egle Laur
-* **Programm:** Data Analyst Career Accelerator (DACA)
-* **Alguskuupäev:** 24.03.2026
-* **Eesmärk:** Sügava andmetaju, tehniliste oskuste ja ärivalmiduse saavutamine läbi reaalsete andmeprojektide.
+* **Participant:** Egle Laur
+* **Program:** Data Analyst Career Accelerator (DACA)
+* **Start Date:** 24.03.2026
+ **Objective**: Achieving deep data literacy, technical skills, and business readiness through real-world data projects
 
 ---
 
-## 🗺️ Õpiteekond & Projektid (Nädalate kaupa)
+## 🗺️ Learning Journey & Projects (Week by Week)
 
-| Nädal | Teema / Fookus | Tehtud tööd & Saavutused | Staatus |
-| :--- | :--- | :--- | :---: |
-| **Week 0** | **Onboarding & Seadistus** | Tööriistade valmispanek (`GitHub`, `Supabase`, `VS Code`, `Power BI`, `Python`, `NotebookLM`). Tutvumine UrbanStyle meeskonna, ärikonteksti ja tiimi Charteri loomine. | ✅ Tehtud |
-| **Week 1** | **SQL Põhitõed** | Andmete pärimine (`SELECT`, `WHERE`, `ORDER BY`, `LIMIT`). UrbanStyle tabelite esmane audit mahtude ja struktuuri mõistmiseks. | ✅ Tehtud |
-| **Week 2** | **SQL Andmete Puhastamine** | Andmekvaliteedi tagamine: duplikaatide eemaldamine, `NULL` väärtuste käsitlemine, tekstiväljade ühtlustamine. Testkoopiate loomine ja audit logi dokumenteerimine. | ✅ Tehtud |
-| **Week 3** | **SQL JOINid & Ühendamine** | Tabelite sidumine (`INNER`, `LEFT`, `FULL JOIN`). Parimate klientide tuvastamine ning mittemüünud toodete analüüs. | ✅ Tehtud |
-| **Week 4** | **SQL Agregatsioon & KPI-d** | Andmete koondamine (`GROUP BY`, `HAVING`). Äriliste KPI-de arvutamine, `CTE`-de ja aknafunktsioonide (Window Functions) kasutamine. | ✅ Tehtud |
-| **Week 5** | **Visualiseerimine Power BI-ga** | Dashboardi hierarhia ja disainipõhimõtted (*data-ink ratio*, õige diagrammitüüp). Suunitlus sidusrühmadele ja juhtkonnale. | ✅ Tehtud |
-| **Week 6** | **Andmelugude jutustamine** | Raportite viimistlemine narratiiviks: juhtide kokkuvõte (*executive summary*), annotatsioonid ja andmete professionaalne esitlemine. | ✅ Tehtud |
-| **Week 7** | **Python & Pandas** | Üleminek SQL-ilt Pythonile. Klientide segmenteerimine ja `RFM analüüs` kasutades `pandas` teeki. | ✅ Tehtud |
-| **Week 8** | **API-d & Automatiseeritud ETL** | Automatiseeritud andmetoru loomine: andmete pärimine SupaBase API-st, puhastamine ja jooniste genereerimine. Koodi modulaarsus, veakäsitlus ja logimine. | ✅ Tehtud |
-| **Week 9** | **Karjääri integratsioon** | Ettevalmistus tööturule sisenemiseks: andmeanalüütiku CV koostamine, LinkedIn profiili viimistlemine ja värbamisprotsessi analüüs tööandja vaatest. | ✅ Tehtud |
-| **Week 10** | **Lõpuprojekt / Järgmised sammud** | *Sisu täpsustub peagi...* | ⏳ Tulemas |
+The projects in this repository are based on the UrbanStyle retail business-simulation dataset, completed during the Data Analyst Career Accelerator: A Hands-On Mentorship Program at Ettevõtluskeskus.
+## Portfolio Map
 
----
-
-## 🛠️ Tehnilised Oskused & Tööriistad
-
-* **Andmebaasid & Päringud (SQL):** PostgreSQL, Supabase
-* **Andmeanalüüs & Skriptimine (Python):** `pandas`, `plotly`
-* **Andmete Visualiseerimine:** Power BI, Streamlit
-* **Arenduskeskkonnad & Versioonihaldus:** Git, GitHub, VS Code
+| Week | Topic | Evidence |
+| :--- | :--- | :--- |
+| **Week 0** | Portfolio setup and team collaboration | [Open](link_siia) |
+| **Week 1** | SQL basics and sales exploration | [Open](link_siia) |
+| **Week 2** | SQL data cleaning and customer data quality | [Open](link_siia) |
+| **Week 3** | SQL joins and inventory analysis | [Open](link_siia) |
+| **Week 4** | SQL aggregation and business KPIs | [Open](link_siia) |
+| **Week 5** | Power BI dashboard | [Open](link_siia) |
+| **Week 6** | Data storytelling and Tartu store view | [Open](link_siia) |
+| **Week 7** | Python/pandas and RFM segmentation | [Open](link_siia) |
+| **Week 8** | Python API pipeline | [Open](link_siia) |
+| **Week 9** | Career preparation |
+| **Week 10**| Portfolio Defence |
 
 ---
 
-## 📫 Võta ühendust!
+## 🛠️ Technical Skills & Tools
 
-Olen avatud uutele väljakutsetele, praktikavõimalustele ja andmealastele aruteludele. 
+* **Databases & Querying (SQL):** PostgreSQL, Supabase
+* **Data Analysis & Scripting (Python):** `pandas`, `plotly`
+* **Data Visualization:** Power BI, Streamlit
+* **Development Environments & Version Control:** Git, GitHub, VS Code
+
+---
+
+## 📫 Get in Touch!
+
+I am open to new opportunities, internships, and data-related discussions. 
 
 * **GitHub:** [github.com/EgleLaur](https://github.com/EgleLaur)
-* **LinkedIn:** https://www.linkedin.com/in/egle-l/
-* **E-mail:** lauregle@gmail.com
+* **LinkedIn:** (https://www.linkedin.com/in/egle-l/)
+* **Email:** lauregle@gmail.com
 
 
 
